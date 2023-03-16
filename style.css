@@ -248,7 +248,7 @@
     margin-bottom: 16px;
   }
 
-  button.ios-download:hover {
+  button.android-download:hover {
     background:#66E2DC;
   }
 
@@ -256,7 +256,7 @@
     background: #FCFAF9;
   }
 
-  button.android-download:hover {
+  button.ios-download:hover {
     background: #FFB964;
   }
 
