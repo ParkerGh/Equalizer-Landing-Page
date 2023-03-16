@@ -61,7 +61,6 @@
     background-size: cover;
     background-position: 20% 60%;
     position: absolute;
-    right: -110px;
     top: -144px;
     z-index: -1;
   }
@@ -71,7 +70,6 @@
       background-image: url("assets/bg-main-tablet.png");
       background-repeat: none;
       background-position: 80% 60%;
-      right: -30px;
       top: -144px;
       width: 983px;
       height: 908px;
@@ -81,7 +79,6 @@
   @media only screen and (min-width: 1050px) {
     .wrapper::after {
       width: 1813px;
-      right: -280px;
       top: -144px;
       background-position: 135% 60%;
       height: 1758px;
